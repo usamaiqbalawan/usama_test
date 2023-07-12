@@ -1,0 +1,33 @@
+body{
+    background-color: #C1ECE4;
+  }
+
+  hr{
+      border: none;
+      border-top: 7px dotted white;
+      color: #C1ECE4;
+      background-color: #C1ECE4;
+      height: 0px;
+      width: 27%;
+  }
+
+  h1{
+    color: #468B97;
+  }
+
+  .loveletter{
+    background-color: red;
+    border-radius: 10%;
+  }
+
+  img:hover{
+    border-radius: 10%;
+    background-color: beige;
+  }
+
+  #heading{
+    font-size: 100%;
+    color: #0B666A;
+
+
+  }
